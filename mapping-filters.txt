@@ -1,0 +1,7 @@
+# This file defines the repositories whose size has to be shrunk
+# On the left is the name of repositories on OW2 to consider and on the right is
+# the BGF --delete-files expression to use
+
+# OW2 repository name        BFG filter to apply
+
+scheduling                   '*.{class,doc,jar,jpg,out,pdf,png,tar.gz,zip}'

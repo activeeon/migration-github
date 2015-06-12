@@ -1,0 +1,20 @@
+# This file defines the mapping between JIRA projects and Github repositories
+# for importing issues. Issues are only imported for JIRA projects defined in
+# this file.
+
+# JIRA Project Key                  Github Repository Name
+
+AGENT                               agent-windows
+DOC                                 documentation
+LINAGENT                            agent-linux
+MSC                                 connector-matlab-scilab
+NSC                                 client-csharp
+PORTAL                              scheduling-portal
+PJ                                  scriptengine-powershell
+PRC                                 connector-r
+PWS                                 studio
+# ---------------------------------------------------------
+PROACTIVE                           programming
+PALIGHT                             programming
+# ---------------------------------------------------------
+SCHEDULING                          scheduling

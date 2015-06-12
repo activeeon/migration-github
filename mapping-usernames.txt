@@ -1,0 +1,6 @@
+# This file defines the mapping between JIRA and Github usernames
+# It is used for setting assignee for issues on Github
+
+# JIRA username                     Github username
+
+mjost                               mauriciojost

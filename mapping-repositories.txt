@@ -1,0 +1,24 @@
+# This file list the repositories to import to Github from OW2
+# On the left is the name of the repository on ow2-proactive and on the
+# right is the corresponding name on Github
+
+# OW2 repository name               Github repository name
+
+agent_common                        agent-common
+agent_linux                         agent-linux
+agent_windows                       agent-windows
+cloud_automation                    cloud-automation
+cloud_service_provider_conectors    connector-cloud
+documentation
+matlab_scilab_connector	            connector-matlab-scilab
+nagios_plugins                      nagios-plugins
+powershell-jsr223                   scriptengine-powershell
+proactive-sdk-csharp                client-csharp
+programming
+scheduling
+scheduling_portal                   scheduling-portal
+r_connector                         connector-r
+serialver-gradle                    gradle-serialver
+studio
+windows_azure_connector             connector-windows-azure
+
